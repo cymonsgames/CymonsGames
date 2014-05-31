@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1281978089 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\shiftcypher\shiftcypher.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1282017026 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\shiftcypher\caesarcypher.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1287871806 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\caesarcipher\caesarcypher.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

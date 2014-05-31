@@ -1,0 +1,12 @@
+1.2c - November 12, 2008
+  * Made some minor changes to add compatibility with PDCurses for Cymon's Games.
+
+1.2 - June 2nd 2003
+  * Improved handling yet again - nasty bug in the previous version I finally fixed :)
+
+1.1 - July 16th 2002
+  * Improved handling (added `lastdir` variable)
+  * Added pause button (`p`) and quit button (`q`)
+  
+1.0 - July 11th 2002
+  * Initial release

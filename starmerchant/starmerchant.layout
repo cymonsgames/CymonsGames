@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cargo.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="79" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="254" topLine="0" />
+	</File>
+	<File name="starports.h" open="1" top="1" tabpos="2">
+		<Cursor position="0" topLine="6" />
+	</File>
+	<File name="upgrades.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

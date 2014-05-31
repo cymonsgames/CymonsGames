@@ -1,0 +1,6 @@
+#!/bin/bash
+
+make clean
+make
+make -f Makefile.mingw clean
+make -f Makefile.mingw

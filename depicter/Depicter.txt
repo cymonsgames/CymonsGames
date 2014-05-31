@@ -1,0 +1,20 @@
+GoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGo
+G          oGoGoGoGoGoGoG            oGo           oGoG                      o
+GoG      oGoGoGoGoGoGoG                o           oGoG                      o
+GoGo    GoGoGoGoGoGoGo          GoGo    GoG      oGoGoGoG   GoG    oGoGoGoG  o
+GoGo    GoGoGoGoGoGoG         GoGoGoG    oG      oGoGoGoG   GoG    oGoGoGoG  o
+GoGo    GoGoGoGoGoGoG        oGoGoGoGo   oG       GoGoGo   oGoG    oGoGoGoGo o
+GoGo    GoGoGoGoGoGo         oGoGoGoGo    Go      GoGoGo   oGoG    oGoGoGoGo o
+GoGo    GoGoGoGoGoGo        GoGoGoGoGo    Go      GoGoGo   oGoG    oGoGo oGoGo
+GoGo    GoGoGoGoGoGo        GoGoGoGoG     GoG      oGoG   GoGoG    oGoGo oGoGo
+GoGo    GoGoGoGoGoGo       oGoGoGoGoG     GoG      oGoG   GoGoG    oGoG  oGoGo
+GoGo    GoGoGoGoGoGo      GoGoGoGoGo      GoG      oGo   oGoGoG          oGoGo
+GoGo    GoGoGoGoGoGo      GoGoGoGoG       GoGo      Go   oGoGoG    oGoG  oGoGo
+GoGo    GoGoGoGoGoGo     oGoGoGoGoG       GoGo      Go   oGoGoG    oGoGo oGoGo
+GoGo    GoGoGoGoGo o     oGoGoGoGo        GoGoG     G   GoGoGoG    oGoGoGoGo o
+GoGo    GoGoGoGoGo oG    oGoGoGoGo       oGoGoG         GoGoGoG    oGoGoGoGo o
+GoGo    GoGoGoGoG  oG     GoGoGoG        oGoGoG        oGoGoGoG    oGoGoGoG  o
+GoGo    GoGoGoGo   oGo     oGoG         GoGoGoGo       oGoGoGoG    oGoGoGoG  o
+G                  oGoG                oGoGoGoGo       oGoGoG                o
+G                  oGoGoG            oGoGoGoGoGoG     GoGoGoG                o
+GoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGoGo

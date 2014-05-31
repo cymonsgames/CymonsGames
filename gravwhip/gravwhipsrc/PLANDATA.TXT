@@ -1,0 +1,246 @@
+#Data File Name
+plandata.pcx
+#Number of Planets
+22
+#Planet 1:Gold Ball
+#Planet's DIAMETER
+11
+#Planet's X
+0
+#Planet's Y
+0
+#Planet's Density
+2.0
+#Planet's Type : 0-non flipable 1-flipable 2-sun
+1
+#Planet 2:Dead Moon
+#Planet's DIAMETER
+11
+#Planet's X
+0
+#Planet's Y
+11
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 3:White Dwarf
+#Planet's DIAMETER
+19
+#Planet's X
+20
+#Planet's Y
+0
+#Planet's Density
+2.5
+#Planet's Type
+2
+#Planet 4:"Class M type"
+#Planet's DIAMETER
+19
+#Planet's X
+20
+#Planet's Y
+19
+#Planet's Density
+1.5
+#Planet's Type
+1
+#Planet 5:Holled World
+#Planet's DIAMETER
+19
+#Planet's X
+20
+#Planet's Y
+38
+#Planet's Density
+0.5
+#Planet's Type
+0
+#Planet 6:Cloudy World
+#Planet's DIAMETER
+19
+#Planet's X
+20
+#Planet's Y
+57
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 7:Paved
+#Planet's DIAMETER
+31
+#Planet's X
+40
+#Planet's Y
+0
+#Planet's Density
+1.5
+#Planet's Type
+0
+#Planet 8:Cored World
+#Planet's DIAMETER
+29
+#Planet's X
+40
+#Planet's Y
+31
+#Planet's Density
+0.5
+#Planet's Type
+0
+#Planet 9:Green Star
+#Planet's DIAMETER
+39
+#Planet's X
+80
+#Planet's Y
+0
+#Planet's Density
+2.5
+#Planet's Type
+2
+#Planet 10:Planet X
+#Planet's DIAMETER
+39
+#Planet's X
+80
+#Planet's Y
+39
+#Planet's Density
+1.5
+#Planet's Type
+0
+#Planet 11:Gas Giant
+#Planet's DIAMETER
+39
+#Planet's X
+80
+#Planet's Y
+78
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 12:Ringed World
+#Planet's DIAMETER
+39
+#Planet's X
+80
+#Planet's Y
+117
+#Planet's Density
+0.3
+#Planet's Type
+1
+#Planet 13:Yellow Giant
+#Planet's DIAMETER
+61
+#Planet's X
+130
+#Planet's Y
+0
+#Planet's Density
+2.0
+#Planet's Type
+2
+#Planet 14:Billboard
+#Planet's DIAMETER
+33
+#Planet's X
+20
+#Planet's Y
+76
+#Planet's Density
+0.5
+#Planet's Type
+0
+#Planet 15:Dead World
+#Planet's DIAMETER
+25
+#Planet's X
+40
+#Planet's Y
+110
+#Planet's Density
+1.5
+#Planet's Type
+1
+#Planet 16:Water World
+#Planet's DIAMETER
+15
+#Planet's X
+0
+#Planet's Y
+22
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 17:Torus
+#Planet's DIAMETER
+33
+#Planet's X
+40
+#Planet's Y
+135
+#Planet's Density
+1.0
+#Planet's Type
+0
+#Planet 18:Bubble
+#Planet's DIAMETER
+27
+#Planet's X
+0
+#Planet's Y
+110
+#Planet's Density
+0.3
+#Planet's Type
+1
+#Planet 19:Class M #2
+#Planet's DIAMETER
+15
+#Planet's X
+0
+#Planet's Y
+37
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 20:Flamming
+#Planet's DIAMETER
+25
+#Planet's X
+0
+#Planet's Y
+137
+#Planet's Density
+1.5
+#Planet's Type
+1
+#Planet 21:Twinsun
+#Planet's DIAMETER
+19
+#Planet's X
+0
+#Planet's Y
+52
+#Planet's Density
+1.0
+#Planet's Type
+1
+#Planet 22:Plad
+#Planet's DIAMETER
+33
+#Planet's X
+80
+#Planet's Y
+156
+#Planet's Density
+0.5
+#Planet's Type
+1

@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1261004981 source:c:\downloads\fireworks\main.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	<time.h>
+
+1278286901 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\notmine\fireworks\main.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1114392374 c:\codeblocks\allegro\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1262199612 c:\codeblocks\allegro\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1230147588 c:\codeblocks\allegro\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/alpspcfg.h"
+	"allegro/platform/astdint.h"
+
+1278029680 c:\codeblocks\allegro\include\allegro\platform\alplatf.h
+
+1107328332 c:\codeblocks\allegro\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1182019948 c:\codeblocks\allegro\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256106900 c:\codeblocks\allegro\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256082342 c:\codeblocks\allegro\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1256082342 c:\codeblocks\allegro\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256082342 c:\codeblocks\allegro\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1224552446 c:\codeblocks\allegro\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107328332 c:\codeblocks\allegro\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1182019948 c:\codeblocks\allegro\include\allegro\platform\alosxcfg.h
+
+1182019948 c:\codeblocks\allegro\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1255824596 c:\codeblocks\allegro\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro/platform/alunixac.h"
+
+1224602534 c:\codeblocks\allegro\include\allegro\platform\alpspcfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1182019948 c:\codeblocks\allegro\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1224602534 c:\codeblocks\allegro\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110300924 c:\codeblocks\allegro\include\allegro\unicode.h
+	"base.h"
+
+1136106586 c:\codeblocks\allegro\include\allegro\config.h
+	"base.h"
+
+1090985602 c:\codeblocks\allegro\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110300924 c:\codeblocks\allegro\include\allegro\debug.h
+	"base.h"
+
+1233546138 c:\codeblocks\allegro\include\allegro\mouse.h
+	"base.h"
+
+1110300924 c:\codeblocks\allegro\include\allegro\timer.h
+	"base.h"
+
+1102172188 c:\codeblocks\allegro\include\allegro\keyboard.h
+	"base.h"
+
+1073706596 c:\codeblocks\allegro\include\allegro\joystick.h
+	"base.h"
+
+1005127606 c:\codeblocks\allegro\include\allegro\palette.h
+
+1236691636 c:\codeblocks\allegro\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1098017132 c:\codeblocks\allegro\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107328332 c:\codeblocks\allegro\include\allegro\fixed.h
+	"base.h"
+
+1110300924 c:\codeblocks\allegro\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144577248 c:\codeblocks\allegro\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110300924 c:\codeblocks\allegro\include\allegro\platform\al386gcc.h
+
+1110300924 c:\codeblocks\allegro\include\allegro\platform\al386vc.h
+
+1110300924 c:\codeblocks\allegro\include\allegro\platform\al386wat.h
+
+1110300924 c:\codeblocks\allegro\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110300924 c:\codeblocks\allegro\include\allegro\inline\color.inl
+
+1257798244 c:\codeblocks\allegro\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1199191258 c:\codeblocks\allegro\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036130184 c:\codeblocks\allegro\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036130184 c:\codeblocks\allegro\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144577248 c:\codeblocks\allegro\include\allegro\compiled.h
+	"base.h"
+
+1105938888 c:\codeblocks\allegro\include\allegro\text.h
+	"base.h"
+
+1165922076 c:\codeblocks\allegro\include\allegro\font.h
+	"base.h"
+
+1036130184 c:\codeblocks\allegro\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104463666 c:\codeblocks\allegro\include\allegro\gui.h
+	"base.h"
+
+1142755534 c:\codeblocks\allegro\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142755534 c:\codeblocks\allegro\include\allegro\digi.h
+	"base.h"
+
+1036130184 c:\codeblocks\allegro\include\allegro\stream.h
+	"base.h"
+
+1142755534 c:\codeblocks\allegro\include\allegro\midi.h
+	"base.h"
+
+1199335164 c:\codeblocks\allegro\include\allegro\file.h
+	"base.h"
+
+1110340816 c:\codeblocks\allegro\include\allegro\lzss.h
+	"base.h"
+
+1136106586 c:\codeblocks\allegro\include\allegro\datafile.h
+	"base.h"
+
+1036130184 c:\codeblocks\allegro\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130592898 c:\codeblocks\allegro\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036130184 c:\codeblocks\allegro\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007278370 c:\codeblocks\allegro\include\allegro\inline\matrix.inl
+
+1036130184 c:\codeblocks\allegro\include\allegro\quat.h
+	"base.h"
+
+1110300924 c:\codeblocks\allegro\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110300924 c:\codeblocks\allegro\include\allegro\inline\3dmaths.inl
+
+1261336256 c:\codeblocks\allegro\include\allegro\alcompat.h
+
+1036130184 c:\codeblocks\allegro\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110300924 c:\codeblocks\allegro\include\allegro\inline\fix.inl
+
+1278328410 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\fireworks\fireworks.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1278391116 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\fireworks\fireworks.c
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+

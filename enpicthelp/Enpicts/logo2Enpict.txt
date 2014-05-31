@@ -1,0 +1,7 @@
+string code =
+"tVp*~vn=$~rR3!~oP3!h~R1(q`~N2PxP|@nnr07hwh7n7,7`vHhO%7Pshp!`1`qn1!P30r>07!7/q"
+">P7/3.7/ph@53L,7.ohP2?N,7.Oh)?7-7-?L)qN/7.?h*w.7.7h-w+7-3L/on3-3.3h.3g3.3.3h)"
+"7?-7.3h*?H,7.3h1/3&3/3`1!lO-3`3$pn1P3`1HP|-?07`mv%?0?jnp01+O.o^OPgo-o)K>hO`3P"
+"o0OH-1kM/q0q6`jik.r0k7`mlc1lp@n7l^pNPuLslUoh1xfs<l_o`wju`ol?nulvfWnWynv^amWzl"
+"v^nmh{lu0kMn}lrnn3~rl1p.~wPmpn}";
+int width = 60;

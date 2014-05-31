@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="crate.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1093" topLine="21" />
+	</File>
+	<File name="crate.h" open="1" top="0" tabpos="2">
+		<Cursor position="923" topLine="18" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="16271" topLine="781" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1171" topLine="24" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="4">
+		<Cursor position="982" topLine="16" />
+	</File>
+	<File name="tetrisrl.h" open="1" top="0" tabpos="3">
+		<Cursor position="751" topLine="8" />
+	</File>
+</CodeBlocks_layout_file>

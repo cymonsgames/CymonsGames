@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1218235659 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\buttons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+

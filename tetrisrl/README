@@ -1,0 +1,140 @@
+README file for "TetRLs" by John L. Greco
+
+INTRO:
+======
+TetRLs (announced on rec.games.roguelike.development as TetrisRL, "official"
+name changed for copyright/trademark reasons) is my 2009 7drl Challenge entry.
+It is a highly experimental roguelike with gameplay stylized after the hit
+computer game Tetris, created by Alexey Pajitnov in 1985 while working at 
+the Academy of Science of the USSR.
+
+You probably know it, it's only the most famous computer game of all time.
+
+
+BUILDING AND INSTALLATION:
+==========================
+TetRLs' only dependency is NCurses (for *nix platforms) or PDCurses (for windows)
+Provided is a basic makefile that *should* work on any Linux/BSD system.
+simply run:
+
+	make
+	./tetrisrl
+
+to build and run TetRLs.
+
+For building windows binaries I'm afraid you are on your own, the makefile
+'Makefile.mingw' is included and works for me using the MinGW tools provided
+with Fedora 10.  I did however have to build my own copy of PDCurses so that
+I could statically link with it.  You can find more information about that at
+http://www.mail-archive.com/pdcurses-l@lightlink.com/msg00053.html
+
+A pre-built windows binary is included for your convenience, though I have not
+personally tested it.
+
+
+PREMISE:
+========
+In TetRLs you play an unidentified character who is apparently trapped
+in the laboratory of a mad soviet scientist, forced to participate in some
+sort of bizarre mind-game experiment that involves a lot of arranging of oddly
+shaped crates.  However, you must balance this task with battling dozens of
+highly aggressive lab rats that apparently escaped (or were released...).
+
+
+GAMEPLAY:
+=========
+TetRLs' gameplay is relatively simple for a roguelike, movement keys supported
+(on Standard US QWERTY keyboards) are: "vi-keys", "wasd", "arrow keys" and
+"numpad".  You may choose to use whichever scheme you wish at any time though
+use of the arrow keys is discouraged because that scheme does not provide easy
+access to diagonal movement keys.
+
+To clear each level the player must place a certain number of tetrominos on the
+board while trying not to get killed by some lab-rats that appear over time.
+The player may attack and kill the lab rats with a wrench by "bumping" into them,
+otherwise the level may eventually become to cluttered by rats to be playable.
+
+Should the player get too close to a rat for too long, the rat may bite and injure
+the player, reducing their HP level.  The only way to increase HP after being
+attacked is to place more tetrominos.  Particularly, the player receives a bonus
+amount of hit points if they complete an entire line with the tetrominos.
+
+Once the player has placed the proper number of tetrominos, the door on the
+right of the room will open up and upon reaching it the player will enter
+the next level (and be unable to return).  As levels progress the required
+tetrominos need to advance increases, as does the rate of lab rat generation.
+
+The game is complete when the player completes 5 levels (75 tetrominos total).
+
+
+MOVEMENT KEYS:
+==============
+vi-keys: (suggested)
+--------
+
+	h - left
+	l - right
+	j - down
+	k - up
+
+	y - up-left
+	u - up-right
+	b - down-left
+	n - down-right
+
+wasd:
+-----
+
+	w - up
+	a - left
+	s - down
+	d - right
+
+	q - up-left
+	e - up-right
+	z - down-left
+	c - down-right
+
+arrow keys: (NOT recommended, no diagonal support)
+-----------
+
+	up - up
+	down - down
+	left - left
+	right - right
+
+numpad:
+-------
+
+	4 - left
+	6 - right
+	8 - up
+	2 - down
+
+	7 - up-left
+	9 - up-right
+	1 - down-left
+	3 - down-right
+
+
+In addition to the movement keys, a few other keys will
+be useful
+
+The following are "do not move but take a turn" keys:
+
+	.
+	5
+
+To return a tetromino to it's original location and rotate it use:
+
+	R
+	x
+
+To fix a tetromino in place and drop another onto the board use:
+
+	D
+	space
+
+To quit (and die) at any time:
+
+	Q

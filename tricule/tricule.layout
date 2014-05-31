@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="draw.c" open="1" top="0" tabpos="8">
+		<Cursor position="2117" topLine="50" />
+	</File>
+	<File name="draw.h" open="1" top="0" tabpos="7">
+		<Cursor position="259" topLine="0" />
+	</File>
+	<File name="game.c" open="1" top="1" tabpos="9">
+		<Cursor position="3918" topLine="103" />
+	</File>
+	<File name="gfxwrapper.c" open="1" top="0" tabpos="10">
+		<Cursor position="2951" topLine="91" />
+	</File>
+	<File name="gfxwrapper.h" open="1" top="0" tabpos="11">
+		<Cursor position="266" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="2">
+		<Cursor position="734" topLine="16" />
+	</File>
+	<File name="mapgen.c" open="1" top="0" tabpos="4">
+		<Cursor position="23441" topLine="710" />
+	</File>
+	<File name="mapgen.h" open="1" top="0" tabpos="3">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="tiles.c" open="1" top="0" tabpos="6">
+		<Cursor position="8912" topLine="221" />
+	</File>
+	<File name="tiles.h" open="1" top="0" tabpos="5">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="tricule.h" open="1" top="0" tabpos="1">
+		<Cursor position="1925" topLine="66" />
+	</File>
+</CodeBlocks_layout_file>

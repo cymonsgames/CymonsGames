@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1266380581 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\robotescape\robotescape.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+

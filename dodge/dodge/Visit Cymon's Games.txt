@@ -1,0 +1,13 @@
+Survive as long as you can. Touching the circles will kill you. Touching the swelling cross will kill you. You are only given a moment’s warning before the swelling cross becomes deadly. Keeping moving is the only way to stay alive.
+
+You control the hollow circle with the mouse. When you lose you can start a new game with the right mouse button.
+
+The game is simple, and so are the controls, but the satisfaction of survival is 
+
+Dodge is by Jacob Charles, AKA Rio Kikaru , submitted as an entry for MinorHack at September 27th at 7:00 pm UTC.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

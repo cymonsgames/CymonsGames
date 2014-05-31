@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1218236009 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\hangman\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<limits.h>
+	<ctype.h>
+

@@ -1,0 +1,11 @@
+The object is to destroy as many ast...er...viscous circles as you can before their numbers over take you. You control a ship that can rotate left and right and move forward and back using the arrow keys and shoot using the space bar. When ever you destroy an astero...er...viscous circle it splits into two smaller parts which will split again and again until finally they are too small and can be destroyed. But don't be too complacent as their are more coming every few seconds.
+
+The sides wrap so if you go off the left you come back on the right, but your shots don't, so it's generally a good idea to keep yourself in the middle of the screen dodging the growing swarm of as...viscous circles as long as you can.
+
+Viscous circles was written by Jonatan Hedborg as an entry for the MinorHack challenge August 11th, 2007.
+
+This program and its code is was featured on Cymon's Games.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

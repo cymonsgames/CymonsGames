@@ -1,0 +1,27 @@
+Jakub Debski presents 1KB roguelike "Ooooorrrrcs!"
+
+So, brave hero... You went to the Orcish Mines and got their Crystal Crown? Hah?
+You really think this is over? Watch for the surprise that orcs prepared especially for you...
+
+After a long way up, with blunted sword in hand and Crown in the backpack your face was finally covered in Moonlight.
+However the pain from bleeding wounds was too strong to let you perceive beauty of rocky area where entrance to Orcish Mines was.
+There was only one way home, long way east, where human civilization lays.
+
+A noise recalling whispers of stream, suddenly changed into a roar of hundred voices, when distant shapes spotted you.
+"Ooooorrrrcs!" you screamed and started to run for your life...
+
+Rules:
+- You are wounded and bleeding. Every turn you loose HP.
+- Orcs will find you by blood traces, you have to run. Orcs are chasing you from west, run east.
+- Run far enough to loose them and win.
+- Take herbs '?' that grow among rocks. They add 20 HP and for a moment allow you to run faster.
+- Orc guards are on your way. They have different strength (A-F). A is the weakest one, F the strongest.
+- Kill guards to get MP. Every killed guard gives you 1 MP.
+- Avoid guards hiding by the rocks - they will catch you and throw west.
+- Kill guards to get MP. You need it to run away.
+
+Controls:
+6,9,3,8,2 - move E,NE,SE,N,S. There is no wait command as it would be deadly :)
+p - use magic power - teleports you east a distant equaling your MP
+
+To compile you need PDCurses - I used pdc33dll.zip

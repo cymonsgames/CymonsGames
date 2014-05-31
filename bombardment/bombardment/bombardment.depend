@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1214444410 source:c:\documents and settings\larson laptop user\my documents\c++\web\pages\bombardment\bombardment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1214444886 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\bombardment\bombardment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+

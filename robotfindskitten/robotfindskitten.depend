@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1216833748 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\robotfindskitten\main.c
+	<curses.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

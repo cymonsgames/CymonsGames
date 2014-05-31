@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1232041962 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\numbrixgenerator\numbrixgen.cpp
+	<vector>
+	<cstdlib>
+	<ctime>
+	"numbrixgen.h"
+
+1232040352 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\numbrixgenerator\numbrixgen.h
+
+1234708240 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\numbrixgenerator\utils.cpp
+	<curses.h>
+	<vector>
+	<string>
+	"utils.h"
+
+1234707842 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\numbrixgenerator\utils.h
+
+1234672049 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\numbrixgenerator\main.cpp
+	<curses.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<cctype>
+	"numbrixgen.h"
+	"utils.h"
+
+1232041962 source:c:\documents and settings\joe.larson\my documents\my dropbox\c++\published\numbrixgenerator\numbrixgen.cpp
+	<vector>
+	<cstdlib>
+	<ctime>
+	"numbrixgen.h"
+
+1232040352 c:\documents and settings\joe.larson\my documents\my dropbox\c++\published\numbrixgenerator\numbrixgen.h
+
+1234888551 source:c:\documents and settings\joe.larson\my documents\my dropbox\c++\published\numbrixgenerator\utils.cpp
+	<curses.h>
+	<vector>
+	<string>
+	"utils.h"
+
+1234888552 c:\documents and settings\joe.larson\my documents\my dropbox\c++\published\numbrixgenerator\utils.h
+
+1234710325 source:c:\documents and settings\joe.larson\my documents\my dropbox\c++\published\numbrixgenerator\main.cpp
+	<curses.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<cctype>
+	"numbrixgen.h"
+	"utils.h"
+

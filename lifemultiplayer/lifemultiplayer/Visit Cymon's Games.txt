@@ -1,0 +1,20 @@
+John Conway's Game of Life is a sort of mathematical game where simple rules can lead to complex patterns. In its original incarnation life is designed to set up and played on a giant checkerboard by hand but it proved to be a perfect thing for a computer to do. The rules are:
+
+o A token with 2 or 3 neighbors survives.
+o A token with more or less than 2 or 3 neighbors dies from lonelyness or overpopulation.
+o An empty space with exactly 3 neighbors gives birth to a new token.
+
+These rules are enough for the "zero player" game. However, to make it a multiplayer game requires a few additional rules:
+
+o On every turn each player gets to place a piece on the board.
+o When giving birth the player with the majority of the 3 neighbors of an empty cell gets the new cell.
+o If no one has the majority (ie a 3 way tie) the cell becomes a hybred that no one controls.
+o In every turn there is an advantage to turn order. In order to negate that turns are given in round robin order with a different player going first each time.
+
+You can either play a small game on a 5x5 board (good for 2 player games) or a large game on 25x18 board. In order to win it helps to be familiar with the pattens of the original game version of the game of life. Learn some stable patterns to hold in reserve and growing patterns to invade your opponents space. Since you can only add pieces to the board overpopulation is the best way to remove your opponents pieces from the board. 
+
+LifeMultiplayer was written by Joe Larson based on a 2 player BASIC game by Bryan Wyvill as found in 'BASIC Computer Games' edited by David H Ahl (c) 1978, which game was derived from John Conway's Game of Life as found in Scientific America, October 1970.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

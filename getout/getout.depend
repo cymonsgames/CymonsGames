@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1229622623 source:o:\users\joe.larson\my dropbox\c++\unpublished\getout\map.cpp
+	<iostream>
+	<stdlib.h>
+	"class.h"
+	<time.h>
+
+1228704304 o:\users\joe.larson\my dropbox\c++\unpublished\getout\class.h
+
+1229622809 source:o:\users\joe.larson\my dropbox\c++\unpublished\getout\main.cpp
+	<string>
+	<cstdlib>
+	<curses.h>
+	"class.h"
+	<time.h>
+	<iostream>
+	<math.h>
+
+1229648852 source:d:\larson home's documents\my dropbox\c++\unpublished\getout\main.cpp
+	<string>
+	<cstdlib>
+	<curses.h>
+	"class.h"
+	<time.h>
+	<iostream>
+	<math.h>
+
+1228704304 d:\larson home's documents\my dropbox\c++\unpublished\getout\class.h
+
+1229622623 source:d:\larson home's documents\my dropbox\c++\unpublished\getout\map.cpp
+	<iostream>
+	<stdlib.h>
+	"class.h"
+	<time.h>
+

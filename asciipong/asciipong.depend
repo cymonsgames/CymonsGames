@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1277504745 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\asciipong\asciipong.c
+	<stdlib.h>
+	<curses.h>
+
+1274470689 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

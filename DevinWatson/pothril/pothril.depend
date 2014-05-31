@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1222478053 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\level.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"level.h"
+	"dice.h"
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\level.h
+	"tiles.h"
+	"coord.h"
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\tiles.h
+
+1222478052 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\coord.h
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\dice.h
+	"mt19937int.h"
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\mt19937int.h
+
+1222478053 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\main.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<curses.h>
+	<time.h>
+	<ctype.h>
+	<locale.h>
+	<math.h>
+	<limits.h>
+	"coord.h"
+	"dice.h"
+	"level.h"
+	"treasure.h"
+	"races.h"
+	"weapons.h"
+	"player.h"
+	"monsters.h"
+	"items.h"
+	"shop.h"
+	"tiles.h"
+	<wchar.h>
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\treasure.h
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\races.h
+
+1222478054 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\weapons.h
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\player.h
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\monsters.h
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\items.h
+	"player.h"
+
+1222478053 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\shop.h
+	"coord.h"
+
+1222478053 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\treasure.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"treasure.h"
+
+1222478053 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\notmine\devinwatson\pothril\items.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"items.h"
+

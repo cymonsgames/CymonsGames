@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1220133495 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\insultchatbot\main.cpp
+	<iostream>
+	<vector>
+

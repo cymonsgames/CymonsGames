@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1234134255 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\alleytris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+

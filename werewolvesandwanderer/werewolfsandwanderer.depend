@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1277266958 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\werewolfsandwanderer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+
+1276202014 c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\werewolfsandwanderer\roomdata.h
+

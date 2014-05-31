@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1277328301 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\werewolvesandwanderer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+

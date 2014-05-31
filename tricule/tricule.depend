@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1292942455 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\gfxwrapper.c
+	"gfxwrapper.h"
+
+1292339873 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\gfxwrapper.h
+	<allegro.h>
+
+1114388774 c:\codeblocks\allegro\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1262196012 c:\codeblocks\allegro\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1230143988 c:\codeblocks\allegro\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/alpspcfg.h"
+	"allegro/platform/astdint.h"
+
+1278026080 c:\codeblocks\allegro\include\allegro\platform\alplatf.h
+
+1107324732 c:\codeblocks\allegro\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1182016348 c:\codeblocks\allegro\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256103300 c:\codeblocks\allegro\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256078742 c:\codeblocks\allegro\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1256078742 c:\codeblocks\allegro\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1256078742 c:\codeblocks\allegro\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1224548846 c:\codeblocks\allegro\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107324732 c:\codeblocks\allegro\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1182016348 c:\codeblocks\allegro\include\allegro\platform\alosxcfg.h
+
+1182016348 c:\codeblocks\allegro\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1255820996 c:\codeblocks\allegro\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro/platform/alunixac.h"
+
+1224598934 c:\codeblocks\allegro\include\allegro\platform\alpspcfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1182016348 c:\codeblocks\allegro\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1224598934 c:\codeblocks\allegro\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110297324 c:\codeblocks\allegro\include\allegro\unicode.h
+	"base.h"
+
+1136102986 c:\codeblocks\allegro\include\allegro\config.h
+	"base.h"
+
+1090982002 c:\codeblocks\allegro\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110297324 c:\codeblocks\allegro\include\allegro\debug.h
+	"base.h"
+
+1233542538 c:\codeblocks\allegro\include\allegro\mouse.h
+	"base.h"
+
+1110297324 c:\codeblocks\allegro\include\allegro\timer.h
+	"base.h"
+
+1102168588 c:\codeblocks\allegro\include\allegro\keyboard.h
+	"base.h"
+
+1073702996 c:\codeblocks\allegro\include\allegro\joystick.h
+	"base.h"
+
+1005124006 c:\codeblocks\allegro\include\allegro\palette.h
+
+1236688036 c:\codeblocks\allegro\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1098013532 c:\codeblocks\allegro\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107324732 c:\codeblocks\allegro\include\allegro\fixed.h
+	"base.h"
+
+1110297324 c:\codeblocks\allegro\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144573648 c:\codeblocks\allegro\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110297324 c:\codeblocks\allegro\include\allegro\platform\al386gcc.h
+
+1110297324 c:\codeblocks\allegro\include\allegro\platform\al386vc.h
+
+1110297324 c:\codeblocks\allegro\include\allegro\platform\al386wat.h
+
+1110297324 c:\codeblocks\allegro\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110297324 c:\codeblocks\allegro\include\allegro\inline\color.inl
+
+1257794644 c:\codeblocks\allegro\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1199187658 c:\codeblocks\allegro\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036126584 c:\codeblocks\allegro\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036126584 c:\codeblocks\allegro\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144573648 c:\codeblocks\allegro\include\allegro\compiled.h
+	"base.h"
+
+1105935288 c:\codeblocks\allegro\include\allegro\text.h
+	"base.h"
+
+1165918476 c:\codeblocks\allegro\include\allegro\font.h
+	"base.h"
+
+1036126584 c:\codeblocks\allegro\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104460066 c:\codeblocks\allegro\include\allegro\gui.h
+	"base.h"
+
+1142751934 c:\codeblocks\allegro\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142751934 c:\codeblocks\allegro\include\allegro\digi.h
+	"base.h"
+
+1036126584 c:\codeblocks\allegro\include\allegro\stream.h
+	"base.h"
+
+1142751934 c:\codeblocks\allegro\include\allegro\midi.h
+	"base.h"
+
+1199331564 c:\codeblocks\allegro\include\allegro\file.h
+	"base.h"
+
+1110337216 c:\codeblocks\allegro\include\allegro\lzss.h
+	"base.h"
+
+1136102986 c:\codeblocks\allegro\include\allegro\datafile.h
+	"base.h"
+
+1036126584 c:\codeblocks\allegro\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130589298 c:\codeblocks\allegro\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036126584 c:\codeblocks\allegro\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007274770 c:\codeblocks\allegro\include\allegro\inline\matrix.inl
+
+1036126584 c:\codeblocks\allegro\include\allegro\quat.h
+	"base.h"
+
+1110297324 c:\codeblocks\allegro\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110297324 c:\codeblocks\allegro\include\allegro\inline\3dmaths.inl
+
+1261332656 c:\codeblocks\allegro\include\allegro\alcompat.h
+
+1036126584 c:\codeblocks\allegro\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110297324 c:\codeblocks\allegro\include\allegro\inline\fix.inl
+
+1291177766 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\main.c
+	<time.h>
+	"gfxwrapper.h"
+	"tricule.h"
+	"game.h"
+
+1291426460 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\tricule.h
+	<allegro.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	"gfxwrapper.h"
+
+1292979900 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\mapgen.h
+	"tricule.h"
+
+1289608660 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\tiles.h
+	"tricule.h"
+
+1291817894 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\draw.h
+	"tricule.h"
+
+1292980027 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\mapgen.c
+	"mapgen.h"
+
+1291424466 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\tiles.c
+	"tiles.h"
+
+1292979954 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\draw.c
+	"draw.h"
+
+1292943274 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\game.c
+	"gfxwrapper.h"
+	"tricule.h"
+	"mapgen.h"
+	"tiles.h"
+	"draw.h"
+	"game.h"
+
+1290213689 c:\documents and settings\user\my documents\my dropbox\cymonsgames\games\tricule\game.h
+	"tricule.h"
+

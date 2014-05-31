@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1261177582 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\absorber\roverwars.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

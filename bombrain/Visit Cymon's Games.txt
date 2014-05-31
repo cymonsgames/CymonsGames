@@ -1,0 +1,11 @@
+An unexplainable flurry of explosives are falling from the sky. There’s no time to wonder where these deadly projectiles are coming from when you’ve got to dance to avoid the BOMB RAIN!
+
+The most exciting part of this program can’t be conveyed by pictures alone because this game has a sound track. Utilizing allegro’s sound generation functions Bomb Rain comes with a sound track to accompany your fight for your life. Using this code it should be possible to add sound to any game.
+
+Bomb Rain is by Simon Parzer, written for the MinorHack challenge on October 14, 2006.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

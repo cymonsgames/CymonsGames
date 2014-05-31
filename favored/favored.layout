@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="asciiart.txt" open="1" top="0" tabpos="4">
+		<Cursor position="699" topLine="44" />
+	</File>
+	<File name="inout.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="42" topLine="63" />
+	</File>
+	<File name="inout.h" open="1" top="0" tabpos="2">
+		<Cursor position="343" topLine="0" />
+	</File>
+	<File name="killmsgs.txt" open="1" top="0" tabpos="5">
+		<Cursor position="1015" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="3433" topLine="135" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,60 @@
+  Gravity Whip
+
+THE STORY
+
+Space. Every sentient species that occupies it's expanse is different. Different in appearance. Different in language. Different in methods of communication. Different in philosophies. To some species concepts such as love and happiness that we find so basic to our being are unknown, and incomprehensible. Some have ideas and concepts that we could not hope to grasp. Still, despite all the differences there is a single force that all species understands, and single idea that unites all species. Violence. True, when two species meet and find that violence is the only thing they have in common, it's hardly ever a happy gathering. At least one knows that one is not entirely alone in the universe, even if one finds oneself more often than not trying to change that. And anything that everyone can relate to, you can bet someone has figured a way to make a buck off it.
+
+Blorg-Garucht, the universe's richest creature of any species, ranking as the richest of the three WHOAHOOzillionares in the universe, knows just how profitable violence can be, cornering the aggression market almost completely. Anytime hostility breaks out, Blorg will be there to provide both sides with facilities and translating devices for the negations. And when a translator malfunctions and accidently translates a reasonable peace agreement into a statement that the opposing ambassador's species should have met a natural disaster early in it's evolution, Blorg would be there to sell weapons and resources to both sides. However this is not as lucrative a situation as one would be led to believe, for once a war is done Blorg would have to oversee repairs of Blorg-Garucht building and planets that were destroyed, and often have to help the rebuilding of war torn civilizations in the interest of assuring species that the whole war was not purely for Blorg's own benefit, and not losing a potential customer.
+
+It was after the rebuilding of the restaurant chains damaged during a particular war started when a Jdomklna waiter refused to serve itself to a Hkmmnana customer that Blorg decided to some up with a more civilized way to let races attack each other in a controlled environment, preferably causing damages only to planets that no sentient life forms inhabit, reducing the amount of repairs necessary to a minimal. Blorg assembled a committee to work on the problem and only six universal years, or approximately 103 human years, a record time for any committee, they decided that it should be a sporting event, to facilitate related merchandise sales, that would employ enough strategy to keep the galactic standards council happy and enough violence to keep the masses coming back for more. While for a council this was nothing short of miraculous, what they had decided was exactly what Blorg had told them six years earlier to work on. After executing the committee, making him the envy of the other two WHOAHOOzillionares, Blorg began working on the project alone. Two universal hours later (or about 45 human minutes) Blorg made an announcement on all communication channels the plan for a competition called Gravity Whip.
+
+The Hkmmnana, Jdomklna, Mfnmrh, Ouhiayo, and Dork races took up the invitation to beat each other to humiliation and were given six universal months, which just happen to correspond to six human months, to design a space cannon that conforms to a set of specification given to them by Blorg. "To insure fair play," they were told. "So you have to buy all the materials from me," is what Blorg really meant though.
+
+Blorg then used that time to assemble a committee to the purpose of finding a suitable location for the Gravity Whip base of operations. They needed to find a solar system far enough out of the way to reduce dangers of stray shots, unclaimed, undeveloped, exploitable, and possessing a planet with abundant tectonics and no sentient life to complain when the planet is "modified" to be the Gravity Whip logo. In the end, the committee chose Earth.
+
+Before you go writing me telling me that there is, even in the smallest degree, sentient life on Earth, I'll explain. The committee, or rather, the second committee after the first one was executed for spending three universal months arguing what abundant tectonics meant, decided on a method of picking a planet. It was decided in the interest of time that a random sampling of the life forms from the areas that would be most affected by tapping the planet's tectonics would be the best way to circumvent any costly law suits. If none of the abductees sampled showed any signs of sentiency another planet would have to be chosen. When it came to Earth it was estimated that North American, particularly Canada, and Middle Asia would be affected. The first batch of abdicates were from Canada and consisted of a tourist, a forest ranger, a trucker named Bubba, a bear, a raccoon, and a cat. Reportedly the cat received the highest rating, but it was still too low to save the planet. Because the over all score was so low, and since three months were already wasted and the time for the games were rapidly approaching, Asia was skipped and the power spikes were driven into the Earth's crust to power the holoprojectors for the Gravity Whip logo.
+
+
+Hundreds died in the resulting tectonic upheavals, and the rest of the northern population franticly fled south. However the fissures in the Earth proved to be quite agreeable once they cooled down forming new beachfront property and natural hot springs. And since most of the people who died were military trying to attack the spikes and accompanying construction team, most people were to content to accept the new landscape of earth quietly and go on with life. However a computer scientist from Colorado managed to contact the Gravity Whip council who was just setting up operations for the games, and thusly managed to convince the council and Blorg that their was intelligent life on Earth. Blorg promptly sent retribution to all those who lost property or their life, executed the committee who decided on Earth, and invited Earth to join in Gravity Whip, offering any technological advancements necessary.
+
+So enters Earth and begins Gravity Whip.
+
+HOW TO START:
+    Make a directory for Gravity Whip (probably GRAVWHIP) and Unzip or 
+    copy all the files into it. Change to that directory and type
+    GRAVWHIP.
+    Once the intro screen pops up press a key at any time to stop the
+    intro (it's very short) and start playing the game. The main menu
+    will pop up.
+
+MAIN MENU:
+From the main menu you can choose which ships will be human controlled, computer controlled or inactive. Other options can be accessed by the pressing the letter "O". To change the ships status you can press the number in the triangle on the left of the icon. The options screen works the same way. Once you have set all ships press the SPACE bar or the ENTER key to begin. You can press F10 to exit at any time.
+
+PURCHASE SCREEN:
+The first screen you will see will be the purchase screen. You start with 200 dollars in universal currency and will be shown on the lower left hand side of the screen. Press up and down on the arrow keys to select the weapon you wish to purchase. Press the ENTER key or right arrow to select that weapon. The bar on the right will move up one. This represents the level to which you have upgraded that weapon. The more you upgrade the weapon the more powerful it becomes.
+
+Armor, energy, and power can also be upgraded. When you upgrade your armor it takes more to kill you. Energy used by every weapon, some more than others. You will never find yourself without enough energy to fire a torpedo, but you may find yourself without the energy to fire anything else. Your power represents how fast you can initially fire a torpedo. Without enough energy you may find yourself relying on planet's gravity to get the shot fast enough.
+
+Your kills are also shown in the lower right hand corner: a slash represents one kill, a skull represents 10.
+
+When you are through purchasing press the SPACE bar to go on.
+
+GAMEPLAY:
+Dominating the most of the screen during the actual fight rounds will be the play area. Every planet on screen exhibits some gravitational pull. There are no planets or other obstacles off the screen. The ships will be spaced evenly around the screen to insure fairness to all. The ships do not exhibit a gravitational pull on the shots, and due to the Gravity Clamp(tm) are not affected by the gravity of the planets either.
+
+On the right hand side of the screen is a vertical bar with icons for each ship. The icons will be covered as the ship they represent takes damage. When the icon is completely covered, the ship is what is traditionally called blown-to-kingdom-come-so-sad-too-bad-never-coming-back-except-maybe-in-next-round-assuming-you-didn't-realy-botch-it-up-but-until-then-go-get-me-a-soda-I'm-still-in-the-running, or blown up. Below the icon are boxes. If you are the first to suffer the ill fate of dying, you will receive a mark against you. When you have no boxes left, don't expect to come back until the next game.
+
+Along the bottom of the screen you will find the main information bar. After the information about which round you are in and which player is up, you will see the energy bar. This bar is full at the beginning of every round, but will steadily decline as you shoot bullets. Next is the weapon chosen, the angle the ship is pointed, the power the shot will be fired at and the counter. The counter is additional information the shot may need. To change the angle you can press the left and right arrows. To change the power you can use the up and down arrows. (Note: This is the power you could purchase on the purchase screen. After a few games you will find out how useful having it fully powered up.) The counter can be increased or decreased with the "<" and ">" keys. If the above seems to slow for you, the left shift key will increase the speed. Likewise, if you just need to adjust your shot a little bit, the right shift key will allow you fine-tuning. You can change the weapon with the "W" key. If any of these keys have escaped your memory, the F1 key will bring up a help screen.
+
+Note on turning: You may have noticed if you are reading this after playing that the ships rotate in steps. This is the reason for the red dot in front of the ship. The way the game was programmed the ships only have 40 pictures to represent 3600 angles. The red dot is, however, exactly where the shot will start. However I still suggest you learn your angles and judge by the numbers, not the pictures.
+    
+TALLY SCREEN:
+Once all but one (or less) of the ships survive, the game goes to the tally screen where the scores and place of all the players are displayed. If a ship has just been eliminated it's score will not be calculated and a message will be displayed to let everyone know they're gone. The score will be added to your current money, plus interest for any unspent money.
+
+WINNING THE GAME:
+    There is only one way to win the game. Kill everyone else. That's it.
+
+CREDITS:
+Main Programmer : Joseph Larson
+Graphics : Joseph Larson and Colby Morgan
+Additional support and input : Robert Aram

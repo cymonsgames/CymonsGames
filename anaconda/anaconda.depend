@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1228343076 source:o:\users\joe.larson\my dropbox\c++\unpublished\anaconda\main.cpp
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<allegro.h>
+	<deque>
+

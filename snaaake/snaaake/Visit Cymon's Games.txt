@@ -1,0 +1,9 @@
+Snaaake is another take on the old nibbles game. Maneuver your snake around eating tokens, growing longer with every point you gain, your tail becoming the greatest threat to your own existence. However this one puts a different spin on it by having a small, boarder less playing field that wraps top to bottom and left to right and by keeping the view centered on the player. As you play you will quickly find the already claustrophobic space getting more cramped as you navigate the labyrinthine passages formed from your own tail.
+
+Snaaake is by Andreas Jörgensen
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

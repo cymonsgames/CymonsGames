@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1236993156 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\favored\main.cpp
+	<ncurses.h>
+	<curses.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<cmath>
+	<vector>
+	<string>
+	<algorithm>
+	"inout.h"
+
+1182387800 c:\codeblocks\pdcurs33\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1237048070 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\favored\inout.cpp
+	"inout.h"
+
+1236876900 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\favored\inout.h
+	<ncurses.h>
+	<curses.h>
+	<string.h>
+	<cstdlib>
+	<time.h>
+

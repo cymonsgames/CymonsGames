@@ -1,0 +1,3 @@
+string code =
+"~~~~?!!lccO`7O0SI6Qon3<Vi1ns<SI61v`3Nn3lp!)r!'p!%O!$7.SONpNi19VI<b03niSa33<<\\I6S<bh`?onk_o!!l~~~~";
+int width = 44;

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1227651270 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\snake\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<list>
+	<iostream>
+
+1230590973 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\snake\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<list>
+	<iostream>
+

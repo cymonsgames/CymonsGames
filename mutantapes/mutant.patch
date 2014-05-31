@@ -1,0 +1,44 @@
+2a3
+> // Modified by Alekhine's .45
+10,12c11,13
+< #define ENEMY_SPEED 1.5
+< #define ROF 20
+< #define BANANA_SPEED 4
+---
+> #define ENEMY_SPEED 1.0
+> #define ROF 26
+> #define BANANA_SPEED 40
+96c97
+<     OBJECT player(400,300,0,0,0,200,15);
+---
+>     OBJECT player(400,300,0,0,0,500,15);
+107c108
+<                 enemies.push_back(OBJECT(rand()%800,rand()%600,0,0,0,3,15));
+---
+>                 enemies.push_back(OBJECT(rand()%800,rand()%600,0,0,0,1,15));
+114c115
+<             if( key[KEY_UP] ) {
+---
+>             if( key[KEY_W] ) {
+117c118
+<             if( key[KEY_DOWN] ) {
+---
+>             if( key[KEY_S] ) {
+120c121
+<             if( key[KEY_LEFT] ) {
+---
+>             if( key[KEY_A] ) {
+123c124
+<             if( key[KEY_RIGHT] ) {
+---
+>             if( key[KEY_D] ) {
+143c144
+<                         player.health-=1;
+---
+>                         player.health-=0.5;
+162c163
+<                             (*it).health = 0;
+---
+>                             (*it).health = 1;
+208a210
+> 

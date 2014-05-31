@@ -1,0 +1,15 @@
+GET OUT!!
+You have stolen the famous Rogue Diamond from the national museum, and hidden it cunningly about your person. But with the roof entrance you arrived through now out of reach, you have to escape through the museum itself. There are ten floors with stairs (>) on each level, but you have to retrieve the security keycard (!) to unseal each exit.
+
+The guards may pose a problem, but as the world's greatest thief that shouldn't be a challenge.
+
+Move your character (@) using the number pad. You can move in any of 8 directions or press the '5' key to hold still for a moment. The cop (&) moves predictably and can be trapped but will attempt to go around any obstacles in his path. To disable the cops ability to dodge obstacles you can press 'X' on the main menu to change the cops behavior.
+
+
+Get out is written by James E. Ward.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

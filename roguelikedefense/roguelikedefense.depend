@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1279759100 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\roguelikedefense\roguelikedefense.cpp
+	<iostream>
+	<curses.h>
+	<ctime>
+	<cstdlib>
+	<math.h>
+
+1274470689 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

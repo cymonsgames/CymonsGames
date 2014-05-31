@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1235446220 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\horde\main.cpp
+	"curses.h"
+	<string>
+	<time.h>
+
+1182384200 c:\codeblocks\pdcurs33\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1235438961 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\simonfruit\main.cpp
+	<allegro.h>
+	<vector>
+	<cmath>
+	<ctime>
+	<cstdlib>
+

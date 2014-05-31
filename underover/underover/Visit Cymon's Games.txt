@@ -1,0 +1,13 @@
+Under & Over is a dice game where players choose a number from 1 to 12, a dice is rolled, and you are rewarded if the number you choose fell in the same range above or below 7 as the roll, and awarded even more if you get it right on.
+
+The rules are based on the BASIC game which originally introduced the author to Under & Over and do not represent the way the game would actually be played in a gambling establishment. In this version an elementary knowledge of the statistics of dice rolls will yield a strategy guaranteed to lead to a growing bankroll for the player. 
+
+	As a challenge to the reader, rewrite the game so to introduce a house edge. In betting houses the players can only be on three options: over or under 7 paying out at even odds or exactly 7 paying out at 5 to 1. However, if you’d like to keep the aspect of paying out for guessing any number, try to adjust the payout. 
+
+	Under & Over is by R. Alan Monroe inspired by a BASIC game of the same name from ‘More BASIC Computer Games’ ©1979 edited by David H. Ahl.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1214860433 source:c:\documents and settings\larson laptop user\my documents\c++\web\pages\tetris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1214882952 source:c:\documents and settings\larson laptop user\my documents\c++\web\pages\published\tetris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1217201893 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\tetris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1229450681 source:o:\users\joe.larson\my dropbox\c++\published\alleytris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1234113494 source:d:\larson home's documents\my dropbox\c++\published\alleytris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1234108983 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\alleytris\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+

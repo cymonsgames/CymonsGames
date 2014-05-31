@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1217473960 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\ruler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

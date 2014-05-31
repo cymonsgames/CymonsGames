@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1228343801 source:o:\users\joe.larson\my dropbox\c++\unpublished\lifemultiplayer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

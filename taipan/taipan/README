@@ -1,0 +1,29 @@
+ABOUT THE GAME
+
+Taipan was (and is) a classic role-playing game from the 1980s. While not as graphically oriented as some of the other popular games of the time (e.g., Choplifter, Karateka, and Lode Runner), Taipan still managed to capture the imagination of almost every player that laid hands upon it. The game was addictive -- almost dangerously so.
+
+Loosely based upon James Clavell’s best-selling novel "Tai-Pan", the game lets you play the role of an ocean-going trader doing business in major Asian ports during the mid-1800s. Your objective is simple: make the most money possible by trading and pirating. Based out of Hong Kong, you'll sail from harbor to harbor buying commodities including opium, silk, arms, and "general" goods, and selling them again at a higher price elsewhere.
+
+The original version of the game was programmed by Art Canfil using a TRS-80. However, the better-known commercial release ran on the Apple ][. Trivia buffs will note that the Apple port was coded by Ronald J. Berg of Mega-micro Computers, a hidden snippet that's revealed by reading the data 
+value of memory location USR(34).
+
+PROGRAMMING NOTES
+
+I've attempted to make this version of Taipan as close to the original as possible. As such, I deliberately left in one rather substantial bug from the Apple ][ version -- if you've ever played Taipan before, you'll know instantly what I mean. If not, you'll just have to discover this one on 
+your own!
+
+ADDITIONAL NOTES
+
+Batavia is the old Dutch name for present-day Jakarta.
+
+Art Canfil co-authored a book (see below) which gives not only the TRS-80 code, but also some excellent background information. The illustrations were done by Chrisann Brennan, former girlfriend of Steve Jobs, and mother of Jobs' daughter Lisa -- the namesake of the forerunner of the Macintosh.
+
+Art Canfil relates: "A few months after it [Avalanche's version of Taipan] came out, I was invited to the founding party for Electronic Arts. This was held in the Stanford Court Hotel in San Francisco. While there, I saw and shook hands with and introduced myself to Steve Wozniak, one of the main original investors in EA. He's long been one of my heroes. He didn't know who I was. But apparently someone told him, for a few minutes later he came running up and shook MY hand and said, 'Taipan's my favorite game!' One of the highpoints of my life."
+
+Unfortunately, Art never made a cent from the Avalanche release.
+
+SUGGESTED READING
+
+"Tai-Pan", James Clavell, 1966
+
+"Taipan: A Historical Adventure for the Apple Computer", Art Canfil, Jim McClenahan, & Karl Albrecht, 1986

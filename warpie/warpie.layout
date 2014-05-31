@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="TrueCurses.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3467" topLine="108" />
+	</File>
+	<File name="TrueCurses.h" open="1" top="0" tabpos="1">
+		<Cursor position="1871" topLine="60" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="27007" topLine="786" />
+	</File>
+</CodeBlocks_layout_file>

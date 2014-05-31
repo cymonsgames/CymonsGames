@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1221095152 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\startrek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

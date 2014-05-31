@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1252547557 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\unpublished\rps\rps.cpp
+	<cstdlib>
+	<curses.h>
+	<time.h>
+	<string>
+	<fstream>
+
+1182387800 c:\codeblocks\pdcurs33\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

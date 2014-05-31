@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1236829854 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\tetrisrl\map.cpp
+	<vector>
+	"map.h"
+
+1236829872 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\tetrisrl\map.h
+	<vector>
+
+1236829758 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\tetrisrl\crate.cpp
+	<vector>
+	<fstream>
+	"crate.h"
+
+1236829800 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\tetrisrl\crate.h
+	<vector>
+	"map.h"
+

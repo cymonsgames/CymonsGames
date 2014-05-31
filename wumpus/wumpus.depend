@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1215280944 source:c:\documents and settings\larson laptop user\my documents\c++\web\pages\wumpus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

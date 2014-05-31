@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1239142100 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\baddie\baddie.cpp
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<allegro.h>
+	<string>
+	<list>
+	<vector>
+
+1239142100 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\baddie\baddie.cpp
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<allegro.h>
+	<string>
+	<list>
+	<vector>
+

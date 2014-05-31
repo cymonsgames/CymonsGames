@@ -1,0 +1,13 @@
+What if when you fell, you didn’t just fall down? What if you could fall up, or sideways? What if you could control the direction you fell? This is exactly the disorienting scenario that you’re in when you play Gravity Panic.
+
+In Gravity Panic you use the arrow keys to move. Pressing up jumps, but up depends on the direction gravity is pulling you. Use the ‘W’, ‘A’, ‘S’, and ‘D’ keys to adjust gravity. You can change gravity mid-fall, but only once until you hit the ground again. Try to collect all the coins bug don’t fall off the edges or you fall into the abyss.
+
+If you think a level is impossible you can press ‘R’ to create a new level and start over.
+
+Gravity Panic is by is by Jacob Charles, AKA Rio Kikaru submitted for the MinorHack challenge.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

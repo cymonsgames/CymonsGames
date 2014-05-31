@@ -1,0 +1,45 @@
+          S  MO        YMONSGAmESCY                       
+         Y      m  CYMONSGAmESCYMONSGAm                   
+         N GAm   YMONSGAmESCYMONSGAmESCYMO                
+         AmESC   NSGAmESCYMONSGAmESCYMONSGAmE             
+         S YMO  GAmESCYMONSGAmESCYM        CYMO           
+          O    mE CYMONSGAm                ONSGA          
+        NSGA ES     S              ESCYMO   AmESCY        
+       GAm      NSGA        SGAmESCYMONSG   SCYMONS       
+      mES  MONS        ONSGAmESCYMONSGAmE   MONSGAmE      
+   mES          SCYMONSGAmESCYMONSGAmESCY   SGAmESCYM     
+   C      AmESCYMONSGAmESCYMONSGAmESCYMON   mESCYMONSG    
+   O   AmESCYMO   AmESCYMONSGAmESCYMONSGAm   YMONSGAmES   
+   G   SCYMONS    SCYMONSGAm  CYMONSGAmESC   NSGAmESCYM   
+  mES   ONSG m S YMO  GAmESC   NSGAmESCYMO   AmESCYMONSG  
+  CYM   GAmES Y ONSG    CYM    AmESCYMONSG   SCYMONSGAmE  
+ MONS   ESCYMONSGAmES    NS   ESCYMONSGAmE   MONSGAmESCYM 
+ SGAm   YMONSGAmESCYMO        Y    GAmESCYM   GAmESCYMONS 
+ mESCY   SGAmESCYMONS              ESCYMONS   ESCYMONSGAm 
+SCYMON   mESCYMONS              ESCYMONSGAm   YMONSGAmESCY
+MONSGA   CYMONSGA      O       CYMONSGAmESCY  NSGAmESCYMON
+SGAmESC   NSGAmESC  ONSG   S    NSGAmESCYMON  AmESCYMONSGA
+mESCYMO   AmESCYMONSGAm   YMO    mESCYMONSGA   CYMONSGAmES
+CYMONSG   SCYMONSGAmES    NSGAm  CYMONSGAmES   ONSGAmESCYM
+ONSGAmE    ONSGAmESCYMO  GAmESCYMONSGAmESCYMO  GAmESCYMONS
+GAmESCYM   GAmESCYMONSGAmESCYMONSGAmESC         SCYMONSGAm
+ESCYMONS    SCYMONSGAmESCYMONSGAmE       G      MONSGAmESC
+ MONSGAmE   MONSGAmE  YMONSG                    SGAmESCYM 
+ SGAmESCY   SGAmESC   N                 CYMONSGAmESCYMONS 
+ mESCYMON    ESC M   G            mESCYM NSGAmESCYMONSGAm 
+  YMONSGAmE      S   E      SGAmES    N        MONSGAmES  
+  NSGAmESCYMONS  m  CY   SGAmE        AmESC    SGAmESCYM  
+   mESCYM     mESC  ONSGAmESCY ONSGA  S    N   mESCYMON   
+   CYMONS        O  GAmESCY  N G    CY     A   CYMONSGA   
+    NSGAmE  Y      mESCYMO   A    YM      ES   ONSGAmE    
+     mESC MO        YMONS    S   O        Y    GAmESC     
+      YM   G          GA     M NS       MON    ESCYM      
+       S  m            SC  ONSG        N       YMON       
+       m S               NSGA        SG        NSG        
+       CY                 m  C     GA E        Am         
+      M                  S   O  GAm   Y       ES          
+      SG                 M   G m      N    ESC            
+       ES                SGAmES  M    A   CY              
+         ON             A     M       SCYM                
+            ES     SGAmE       GAmESCYM                   
+              ONSGA  S           C                        

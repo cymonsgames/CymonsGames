@@ -1,0 +1,7 @@
+string code =
+",I/u!+1b{!/Ml~!`7~p!jlx.?#QmO'O%_11-oh7*7h1hsh?+W7PzhO.7/~?n?01n~Olo/aoh~hp0a"
+"OhplqhpPSGMnarhq`aG?Lhqhqhat`hrhrlht.Qphqlas(qhqnap(thxhOP/vlxhON4nplxhsh`rhx"
+"hr`Wshx`slylxh~?/{`}/1nOqhOn1'rl?nS%zl?LA+ontho0APO80r`tTa7P?lO`?hipn4Rp0o.i?"
+"564q/o4h?23<n3Pg.O82@h7.S,3J07n)9,c3@0?*5*?03`1,3)9H1H(1)A>2H'3)A127&3*o4R1$3"
+"-11l!/3n/q!*O2/1#";
+int width = 58;

@@ -1,0 +1,11 @@
+Speed and accuracy is the name of this game. Type in the sequence you see as fast as you can. Each level gives you less and less time. A simple premise, but what level can you make it to. The game keeps your high score so you can always challenge yourself.
+
+Arrow Fighter was an entry in the March 17 2007 MinorHack challenge, meaning it had to be written (first draft) in an hour, be contained entirely within one source file, and the extra rule for that competition was: View The game must only use Allegro's text output functions with the default font for drawing. So while this program requires Allegro at first glance it may look like a Curses application, at least until it starts moving.
+
+Arrow Fighter was written by Jakub Wasilewski
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

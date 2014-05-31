@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="28787" topLine="753" />
+	</File>
+	<File name="numbrixgen.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="numbrixgen.h" open="1" top="0" tabpos="3">
+		<Cursor position="234" topLine="0" />
+	</File>
+	<File name="utils.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="554" topLine="16" />
+	</File>
+	<File name="utils.h" open="1" top="0" tabpos="4">
+		<Cursor position="63" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

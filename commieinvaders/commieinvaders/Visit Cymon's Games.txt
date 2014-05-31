@@ -1,0 +1,9 @@
+The Communists are attacking and this time they are coming from space! Luckily you have the ReaganX anti-commie laser. You must defend Freedom!!! Use the arrow keys to move left and right and press the space key to fire. As you destroy the coming invaders you will be granted more lives, and you'll need them because they will get faster as you get closer to the end. To win you need to shoot down 100 commie invaders. 
+
+Commie Invaders is written by James E. Ward.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

@@ -1,0 +1,12 @@
+    SMILES    
+  ILE    ESM  
+ SM        SM 
+LE   L  M   SM
+I    I  S    S
+M    M  E    E
+S  L      S  L
+ES  LE  IL  MI
+ ES  LESM  ES 
+  ESM    MIL  
+    SMILES    
+  

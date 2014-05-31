@@ -1,0 +1,15 @@
+CPPFLAGS = -Wall -static -pipe
+LIBS = -lpdcurses
+OBJDIR = win_build
+OBJECTS = main.o map.o crate.o
+OBJECTS := $(addprefix ${OBJDIR}/,${OBJECTS})
+
+tetrisrl: $(OBJECTS)
+	i686-pc-mingw32-g++ $(OBJECTS) $(LIBS) $(CPPFLAGS) -o tetrisrl.exe
+
+${OBJDIR}/%.o : %.cpp
+	@if [ ! -d $(OBJDIR) ]; then mkdir $(OBJDIR); fi #create directory if it doesn't exist
+	i686-pc-mingw32-g++ $(CPPFLAGS) -c -o $@ $<
+
+clean:
+	rm -f $(OBJECTS) tetrisrl.exe

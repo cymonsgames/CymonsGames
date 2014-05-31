@@ -1,0 +1,4 @@
+string code =
+"~u/u.phr07Olp0OlhqPOlhqPOlhq`?lhq`?lhO3O`SoLhP3,O/O!.?l77olQONlg7nlau`c7x`l3h"
+"q@nSx0ph_pPphWq`?+~u";
+int width = 32;

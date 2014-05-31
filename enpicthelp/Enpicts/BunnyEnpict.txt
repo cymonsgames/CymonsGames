@@ -1,0 +1,5 @@
+string code =
+"6!!h!#ol3!,{!,un?!Pulo!ht`r"x0t%y.t'y,t)x)t+x'u.x%u0w"u`u!npls!hqnq!0~1!`{!+z"
+"!'v!$s!!q!#v!({!,~!.~3!n~!h~?"qlx!qhz#rhz$slz%~v&~w%~u#~t"~r!l~7!h}2!Pg?O4!0O"
+"l?8!P?i?@!`?l7o!hx>!PSBq!.3652!$c3!!L!!03%";
+int width = 51;

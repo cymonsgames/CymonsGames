@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1214614565 source:c:\documents and settings\larson laptop user\my documents\c++\web\pages\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<math.h>
+
+1214614728 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<math.h>
+

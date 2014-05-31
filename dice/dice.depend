@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1279310333 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\dice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

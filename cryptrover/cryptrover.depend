@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1218056841 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\cryptrover\main.c
+	<curses.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+

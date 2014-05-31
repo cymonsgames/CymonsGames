@@ -1,0 +1,13 @@
+Nibbles!
+Version 1.2c
+
+Original Notes by Nils Magnus Englund <nmee@nmee.net>
+A simple game I made during the my 2002 summer vacation.
+
+Instructions on how to play the game shouldn't be necessary :-)
+
+As for licensing, I don't really care about the use or misuse of this program or its source, so feel free to do anything you'd like with it. It's public domain.
+
+-Nils Magnus Englund <nmee@nmee.net>
+
+Version 1.2c is a slightly modification of 1.2 to make it compatable with PDCurses and Windows. No other features were added.

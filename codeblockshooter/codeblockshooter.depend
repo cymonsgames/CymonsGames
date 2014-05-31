@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1234642402 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\codeblocksshooter\main.cpp
+	<allegro.h>
+	<math.h>
+

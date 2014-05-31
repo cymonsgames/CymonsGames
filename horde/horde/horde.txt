@@ -1,0 +1,43 @@
+This time I didn't play much with code shrinking and it's about 2KB
+long. For sure it can be less than 1KB if anyone wants to improve size
+:)
+
+THE STORY
+
+"You play Chauncey, one of King Winthrop the Good's humble servants.
+During a meal at which you are serving food, the king begins choking on
+a bit of turkey.
+
+The other people at the table are so engrossed in one of Kronus
+Maelor("the Evil High Chancellor")'s stories, that they don't notice
+the king's predicament. But you, realizing the magnitude of the
+situation, perform a royal Heimlich maneuver on his highness, saving
+his life.
+
+Although Maelor wishes you imprisoned for attacking the king, King
+Winthrop has a better grasp on the situation and rewards your valor by
+knighting you "Sir Chauncey" and giving you a small tract of land known
+as the Shimto Plains.
+
+While vast tracts of land are nice, these particular tracts of land are
+infested with "The Horde". Luckily, as part of your reward for saving
+his life, the good king has given you his mighty hordling-crushing
+sword, Grimthwacker with which to thwart the advance of the foul
+beasts."
+
+CONTROLS
+1-9 Move
+5 - Place/improve fence ($1), expensive fence can kill monsters.
+c - Place cow ($20)
+t - Wait for next season/horde to come
+
+GOAL
+
+Your goal is to reach 2000$ to pay tax to the Evil High Chancellor.
+At the beginning of each season you get $10 per cow.
+You loose when you are out of money.
+
+The game is quite fun and the goal is reachable :)
+
+regards,
+Jakub 

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1225710700 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\safecracker\safecracker.cpp
+	<allegro.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+

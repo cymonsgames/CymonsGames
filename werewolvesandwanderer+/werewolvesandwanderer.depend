@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1277328301 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\werewolvesandwanderer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+
+1277398152 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\werewolvesandwanderer+\main.c
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+
+1274470689 c:\codeblocks\pdcurs34\\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

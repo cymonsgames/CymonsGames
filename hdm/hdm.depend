@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1250213268 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\hdm\main.c
+	"config.h"
+	<time.h>
+	"types.h"
+	<assert.h>
+	<joystick.h>
+
+1250213830 c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\hdm\config.h
+	<curses.h>
+
+1182387800 c:\codeblocks\pdcurs33\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1250213217 c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\hdm\types.h
+	"config.h"
+
+1246344300 source:c:\documents and settings\larson laptop user\my documents\my dropbox\cymonsgames\published\hdm\editor.c
+	"config.h"
+	"types.h"
+

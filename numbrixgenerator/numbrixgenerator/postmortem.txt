@@ -1,0 +1,87 @@
+Numbrix Generator and Solver Post Mortem
+by Joseph Larson
+November 20, 2008
+
+Writing the Numbrix Generator and Solver has been a long road. Since is was such an involved project that I feel I grew during I want to make a post mortem to document what I've learned.
+
+This project started in July when Maryln Vos Savant introduced her numbrix puzzle. They were fun, but when I posted about them on Cymon's Games the thought was in my head that someone needed to write a program that generated numbrix puzzles. I didn't say anything on the site, but I did start exploring the idea. I discovered that the word for the sort of path that a numbrix solution was based on is called a "unicursal path," more specifically this was to be a space-filling unicursal path, and the generation of one was non-trivial. Think Labryinth had some methods that would work, but they didn't provide the sort of variety that I wanted. I even got in contact with Walter D. Pullen, the webmaster of Think Labyrinth, who suggested exactly what was on my mind and what would eventually be exactly what I did, but it would me months before I could pull it off.
+
+After exploring the problem there followed a mulling over period. For a few months there was little progress as I wrote paths on graph paper, explored how I made them, thought about what I was thinking about, and tried unsuccessfully to figure out how I would translate that thinking to a program. I knew I could either bend the middle or extend the ends, but how to translate this into computer-eze I did not know.
+
+Then in October like a bolt from above I had an epiphany. Recursion! Why hadn't I thought about it sooner? Quickly I knocked out some psuedo code that I then translated into C. The first real problem I ran into was that it was possible to get stuck. When I was generating paths by hand I would simply avoid dead ends unless I could extend the start or end into them. However, when writing the prototype I just went with having it avoid isolated squares because that was easier to program. it worked to a degree and without it the algorithm does get stuck more often, but it wasn't enough. Frequently it will simply avoid certain parts and try out every other possibility around it before backing up enough to fix it, a procedure which could take a really long time. The proper solution is a more robust check. The simple solution is to time it and stop if it takes too long. I took the simple solution. In theory this meant generation could be stuck infinately, but in reality this method tends to work alright.
+
+Now I could generate the paths, so it was time to make a program around it. I decided I wanted to use C++ because this seemed the sort of thing that should be compartmentalized by objects. But my C++ was a little rusty and I've resisted getting into it because I've always felt that if I did C++ I should do it properly, and not just write a C program with cout instead of printf. So I had to reteach myself classes and teach myself for the first time (belive it or not) vectors. Learning new things are always tough and it was frustrating at times, but now that I've overcome the learning curve I kind of like them. Vectors and templates are powerful things and I don't know why when I was learning C++ the first time no one taught them to me.
+
+I also decided I wanted to make this program with a decent user interface (UI) since most of the folks who were finding Cymon's Games through google searchs for Numbrix were probably less interested in the code and text-based graphics and just wanted a functional program. So I developed a method of mapping characters to a screen sized array so that when I read in a mouse click I could treat it no different than a keyboard press. At first I simply cut and pasted the code that did then then modified it to fit the needs of each of the menus but after writing the third menu I finally broke down and made a new object to encapsulate the process. In retrospect it was a good thing I put off doing it until I had done a few menus so I knew what it needed to do the first time I wrote it, but at the time it just felt like I was putting off the inevitable. So now this project has what I feel is a pretty slick UI and looks and acts pretty good under windows, but it was no small task getting there.
+
+By now I noticed that the code I had started with looked nothing like the code I was writing, the style had evolved. The point was driven home when I realized that I needed to write a solver. There was no guarentee that the puzzle generated had a unique solution. At first I wanted to just glaze over this point, but I couldn't let it go. Once I decided it was necessary the actual writing of the Numbrix solver went pretty quickly. The first draft worked, but suffered from a similar problem as the generator, that the recursive nature meant certain solutions couldn't be fixed until it tried every other possibility. So I rewrote it to work short runs first, which generally limited the places the long runs could go. In practice it solved numbrix puzzles so fast that I stopped making the check for uniqueness an option. It's funny that the generation algorithm was a huge think exercise, months before I could write the code, but the solver was written and rewritten in only a few days.
+
+And thanks to the encapsulation of the UI adding an option to solve puzzles to the main menu was easy.
+
+File output is not as pretty as I wanted. I was limited because I didn't want to do any 3rd party libraries for making the output files, so I had to go with a format that was based in text. HTML could work, but isn't that great for print. Post Script and RTF were explored, but would require me starting on another potentially long learning curve, so in the end I decided that ugly text would have to do. If anyone were disposed to writing a PS or RTF version of the save2txt function I will happily include it in a future revision.
+
+Finally I looked over the code and realized that this really needed to be broken up into multiple files. It was something that I knew I would evetually have to do but (again, believe it or not) had never actually done right. I tried it a couple of time but could never quite get it to work. Fortuantely a couple of the programs featured on this very site (nibbles and star merchant) provided me with examples of how it was done. So I have now (finally) written my first program that uses multiple source files.
+
+Objects, vectors, templates, multiple source files, and writing a UI, all firsts for me. I really feel like I've had to grow to make this happen. I attribute it to the fact that I wasn't writing for code monkeys on this one, but was writing and trying to meet the needs of an audience that would probably never look at the code. I doubt I met their needs, either as well as I think I did, as well as they'd like me to, or as well as someone else could, but it was the effort that made the difference.
+
+So the project is finally at a point that I like to call "done." In truth there are a couple of small things I could still do to improve the program but it works and I'm good with it. The sense of relief I feel that comes with being done is palpable. Whenever I ran into a problem in the development process, whenever something didn't work the way I knew it should, it had a way of consuming me until I solved it. And when I solved it I started working on the next step until I ran into a problem. It was like playing X-Com. I couldn't stop until the inconveniences of real life pried kicking and screaming from my keyboard. Now it's done and I'm going to take it easy for a while and enjoy not being slave to my own ambition.
+
+At least until I start coding my ascii version of Portal.
+
+For those who are interested I will now enter the technical discussion of the math behind numbrix generation and solving. Specifically we’re talking about geometry, and not even very complex geometry at that. There are no formulas to work with, no complex algorithms. Since the solution is recursive each step works within a limited scope, tending to not pass much information forwards or backwards. But it is different than generating a maze, which allows you to fill in leftovers with dead ends.
+
+The original pseudo code for numbrix generation looked like:
+/* begin pseudo code for numbrix generation */
+Globals:
+  enum direction = {NONE, UP, DOWN, LEFT, RIGHT, END}
+  directions board[SIZE*SIZE];
+  int start, end;
+
+void start_generation () {
+  clear the board[];
+  start = any random square;
+  board[start] = any random direction provided it doesn't point at the edge;
+  end = the square start points at;
+  board[end] = END;
+  change ()
+}
+
+int change () {
+  Check the board for isolated squares that the start or end can not extend to;
+  If there are isolated squares return 0;
+  /* The above check is not technically necessary,
+  but will cut down some of the maze generation time.
+  There are other checks that can be made, but I don't
+  foresee them paying off as much. */
+
+  Check to see if the board is filled;
+  If the board is filled return 1;
+  
+  Fill a list of all possible modifications that can be made to the code including:
+    * Entending the start or end into empty squares
+    * redirecting the middle of the path into empty squares (bend)
+
+  /* The following should take into account that the 
+  list could be 0 in length. If not a check will need to be made */
+  Randomize the list;
+  Iterate through the list {
+    Apply the modification;
+    call change ();
+    if change() returned 1 return 1;
+    else undo the modification;
+  }
+  return 0;
+} 
+/* end pseudo code for numbrix generation */
+
+When I translated this to code, first in C and then in C++, it followed the pseudo code pretty closely. One thing that changed when I rewrote it in a class for C++ was that instead of storing the list of available modifications in an array I used this opportunity to learn vectors and they were just the thing. Before I had to make the modifications array large enough to accommodate the worst case scenario, which meant wasted space most of the time and under estimates crashing the code some of the time. What a relief it was not to have to worry about that any more. Plus I could insert items into a vector in a random place which saved me having to shuffle the array. The only caveat that I discovered what that the first item could not be “inserted” since you can insert into a vector that has no items. But this was quickly remedied by making a fake item, code 999, that I started the vector with and which would be ignored. I then discovered that 999 was always at the end of the list. Apparently I wasn’t inserting properly. But since 999 was being ignored and the rest of the array was getting shuffled, no harm done and I could press on full steam.
+
+One part that the pseudo code is not so clear on was the list of modifications, which is kind of at the heart of the operation. There were two modifications that could be made to the path: extending the beginning or end and bending the middle. For bends I made an array 2x2 blocks that represented the before and after of paths passing through them. I took out a piece of paper and discovered there were 16 possible path blocks that could be bent without effecting the start and end. So when I went through the array I simply looked for the before, and made note in the modifications array of their location and which bend type they satisfied. Then I discovered that I had forgotten a possibility if the end of the path was one of those squares I could still bend it. Suddenly my array of 16 possible bends became 24 possible bends and there were a lot of duplicates with only minor variations. That’s when I stumbled upon the idea of a wild card, a square that didn’t matter and would always remain unchanged anyways. With the wild card the number of possible bends dropped to 8, and I no longer felt like I might have forgotten one or two. So in the list of modifications I was storing location and type, the type being 1-8 for the 8 possible bends. When it came time to extend the beginning and end I simply needed a type number for them. 100 and 101 seemed far enough out that it wouldn’t interfere with the bends, so they were chosen.
+
+So I had a list of modifications, it was shuffled and applied using a case statement one at a time. Unfortunately there was one more thing I had to worry about. I had to undo modifications in the likely event that an explored path modification led to a dead end. For the bends it was easy, simply swap the “after” for the “before” again, but for the extending the start and end I needed to be careful to remember where the start and end were before.
+
+There is was, numbrix path generation. As mentioned before it’s not perfect, it does get stuck at times wasting it’s time running down paths that a human would ignore, but a bandaid solution in the form of a timer and that problem was solved enough that I could ignore it in the future.
+
+For solving the numbrix, like I said, I managed to go straight to code. I’m not sure how, maybe after wrestling with the generator for so long the solver was child’s play. In a nutshell the first draft would take a given square it knows and starting from there lay down path, wiggling it through every possible layout, until it connects with the next number on the board or backing up if it didn’t. However as any beginner numbrix player will discover you can limit where the longer paths have to go by finding the shorter paths first, many of which have only 1 possible place they can be laid. This method of finding short paths first meant that having the check before wiggling in one function didn’t work any more. So the second draft of my solver became a two stroke recursion with wiggle() calling check() with the next square which called wiggle() which called check() with the next square. There’s something they didn’t cover in programming class.
+
+I’ve already spoken about the UI. I’ll just add that making a UI for curses gives a result that isn’t as robust and isn’t as pretty as using the system GUI, but at least it’s platform independent. There’s a lot of refinement that could be made to the screenmask object that handles the UI, but it worked for the purposes of this program and I have something I will probably revisit again.

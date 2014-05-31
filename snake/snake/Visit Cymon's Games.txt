@@ -1,0 +1,13 @@
+Slither your avatar’s sinuous form around dodging obstacles and eating food. Proceed with caution. The more you eat the longer you get and you don't want to accidently bite your own tail. Use the arrow keys to change direction and if you want to speed things up press the TAB key.
+
+This snake game is rather relaxed. The area is large and sparsely populated. It takes a long time before your tail becomes a real issue. But if the game is not exciting enough for you there are many things you can do to break the boredom. You can increase the number of obstacles (and food) by changing the values of NUMBARRIERS (and NUMFOOD) at the beginning of the code. If the pace is too slow for you look for the line:
+  if((DoSnake % 8) == 0)
+and change the 8 to a lower number.
+
+Snake was written by Robert Ferris (aka BAF), originally written in one hour as an entry to the MinorHack challenge, and slightly modified since then.
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

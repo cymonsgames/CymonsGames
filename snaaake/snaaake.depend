@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1230349450 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\snaaake\snake.cpp
+	"snake.h"
+
+1229569882 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\snaaake\snake.h
+	<allegro.h>
+	<string>
+	<stdio.h>
+
+1230415204 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\snaaake\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<ctime>
+	"snake.h"
+
+1230349450 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\snaaake\snake.cpp
+	"snake.h"
+
+1229569882 c:\documents and settings\larson laptop user\my documents\my dropbox\c++\published\snaaake\snake.h
+	<allegro.h>
+	<string>
+	<stdio.h>
+
+1230349450 source:d:\larson home's documents\my dropbox\c++\published\snaaake\snake.cpp
+	"snake.h"
+
+1229569882 d:\larson home's documents\my dropbox\c++\published\snaaake\snake.h
+	<allegro.h>
+	<string>
+	<stdio.h>
+
+1230879817 source:d:\larson home's documents\my dropbox\c++\published\snaaake\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<ctime>
+	"snake.h"
+

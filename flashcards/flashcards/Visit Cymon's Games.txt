@@ -1,0 +1,19 @@
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.
+
+When I was younger my father used a program that produced random problems for me to solve for me to practice math. That was the first time I was motivated to dissect a program in listing form. Soon enough I was getting a perfect score regardless of how I did. To this day my programming skill outpaces my arithmetic.
+
+This program is similar to that one. It will generate arithmetic problems for you to practice with. It also keeps a running total of how well you do and at the end of 25 problems will give you feedback both in percentage form and traditional letter grade.
+
+The coolest feature of Flashcards is the way that it displays numbers and other symbols. Instead of simply putting up the problem it uses a sort of binary encoding to draw large numbers that fill the whole screen.
+
+Certain screen can't see the problem when it's drawn up to down. If you run into that problem find the line:
+v = (rand () < RAND_MAX / 2); strikes = 0;
+and change it to:
+v = 1; strikes = 0;
+so that all the problems are always displayed horizontally.
+    
+Flash Cards is written by Joseph Larson

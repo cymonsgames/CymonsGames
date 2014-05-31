@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1278507985 source:c:\codeblocks\laser\laser.cpp
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	<assert.h>
+
+1274470689 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1278612749 source:c:\documents and settings\user\my documents\my dropbox\cymonsgames\published\laser\laser.cpp
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	<assert.h>
+

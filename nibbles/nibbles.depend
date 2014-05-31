@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1225217839 source:o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<signal.h>
+	<sys/time.h>
+	<unistd.h>
+	<string.h>
+	"config.h"
+	"misc.h"
+	"screen.h"
+
+1054569885 o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\config.h
+
+1025833508 o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\misc.h
+
+1025892880 o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\screen.h
+
+1025832424 source:o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\misc.c
+	<stdlib.h>
+	<sys/time.h>
+	"misc.h"
+
+1223315283 source:o:\users\joe.larson\my dropbox\c++\unpublished\nibbles\screen.c
+	<stdio.h>
+	<curses.h>
+	"config.h"
+	"misc.h"
+	"screen.h"
+
+1226499936 source:d:\larson home's documents\my dropbox\c++\unpublished\nibbles\misc.c
+	<stdlib.h>
+	<sys/time.h>
+	"misc.h"
+
+1025829908 d:\larson home's documents\my dropbox\c++\unpublished\nibbles\misc.h
+
+1226500163 source:d:\larson home's documents\my dropbox\c++\unpublished\nibbles\screen.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	"config.h"
+	"misc.h"
+	"screen.h"
+
+1054566285 d:\larson home's documents\my dropbox\c++\unpublished\nibbles\config.h
+
+1025889280 d:\larson home's documents\my dropbox\c++\unpublished\nibbles\screen.h
+
+1226499936 source:d:\larson home's documents\my dropbox\c++\unpublished\nibbles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<signal.h>
+	<sys/time.h>
+	<unistd.h>
+	<string.h>
+	"config.h"
+	"misc.h"
+	"screen.h"
+

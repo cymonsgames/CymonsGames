@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1218235157 source:c:\documents and settings\larson laptop user\my documents\my dropbox\c++\unpublished\joust\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1220477942 source:o:\users\joe.larson\dirtoenv\main.c
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<curses.h>
+	<stdlib.h>
+

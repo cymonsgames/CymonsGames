@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="truegod" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\truegod" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+			<Add directory="C:\CodeBlocks\pdcurs33" />
+		</Compiler>
+		<ResourceCompiler>
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+			<Add directory="C:\CodeBlocks\pdcurs33" />
+		</ResourceCompiler>
+		<Linker>
+			<Add library="C:\CodeBlocks\pdcurs33\win32\pdcurses.a" />
+			<Add directory="C:\CodeBlocks\pdcurs33\win32" />
+			<Add directory="C:\CodeBlocks\pdcurs33" />
+		</Linker>
+		<Unit filename="arnie.h" />
+		<Unit filename="ent.h" />
+		<Unit filename="item.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="misc.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

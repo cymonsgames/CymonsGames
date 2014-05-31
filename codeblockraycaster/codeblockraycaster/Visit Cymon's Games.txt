@@ -1,0 +1,13 @@
+The code may not be pretty, but for a program so small this program does something amazing. Originally written to fit use no more than 80x24 characters this program creates a 3D view of a maze for you to navigate from a rats eye view. The listing here has been reformatted to make it slightly more readable. It uses a technique called ray casting which was employed by early 3D video games like Wolfenstein 3D and Doom to essentially extrude a 2D map and fake a 3D appearance.
+
+In Codeblock Raycaster you must navigate a maze seeking for the fabled red block. When you find it a new red block will appear. Find 5 red blocks and you win the game. Use the arrow keys to move. Press the escape key to end your game early.
+
+This program is an excellent starting point, but it could use a few things. You could easily improve the game with a randomly generated map. If you were a bit more adept you could figure out a way to change the goals from red squares to gems or treasure chests.
+
+Codeblock Raycaster was written by Terry Cavanagh. 
+
+This program and its code is was featured on Cymon's Game.
+
+If you like this program, are interested in programming or just love games please visit:
+	http://www.cymonsgames.com
+for free source code, tutorials, resoruces, and a new game every week.

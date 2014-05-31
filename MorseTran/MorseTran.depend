@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1252675955 source:c:\projects\morse\morsetran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1252707310 source:c:\projects\morsetran\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
